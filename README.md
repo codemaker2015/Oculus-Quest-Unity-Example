@@ -1,7 +1,7 @@
-# UnityARFoundationEssentials
-This repository contains a variety of examples created while making a new video series in YouTube about Oculus Quest and the Universal Rendering Pipeline in Unity3d.
+# Oculus Quest Unity Example
+This repository contains a variety of examples about Oculus Quest and the Universal Rendering Pipeline in Unity3d.
 
-Results from various examples taught in YouTube:
+Results from various examples:
 
 - XR Grabbing Items & Universal RP
 
